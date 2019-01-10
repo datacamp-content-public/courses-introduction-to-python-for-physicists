@@ -3,7 +3,20 @@ title: 'Programming (in Python)'
 description: 'What is programming, why would you (as a Physicist) want to learn it, and why are we teaching Python?'
 ---
 
-## Example coding exercise
+## What is programming?
+
+```yaml
+type: VideoExercise
+key: 2c49deb48a
+xp: 50
+```
+
+`@projector_key`
+ea627bff200ce9bfcd8619272313c778
+
+---
+
+## Running a program
 
 ```yaml
 type: NormalExercise

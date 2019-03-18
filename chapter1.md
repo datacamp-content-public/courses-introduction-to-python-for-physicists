@@ -1,6 +1,7 @@
 ---
 title: 'Programming (in Python)'
 description: 'What is programming, why would you (as a Physicist) want to learn it, and why are we teaching Python?'
+free_preview: true
 ---
 
 ## What is programming?
